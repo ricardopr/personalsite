@@ -1,0 +1,35 @@
+body {
+    font-family: Open Sans;
+    color: #000000;
+    font-size: 14px;
+    text-decoration: none;
+}
+
+#uptown {
+    height: 40px;
+    width: auto;
+    border: solid 1px #000000;
+}
+
+
+#logo {
+ text-transform: lowercase;
+ letter-spacing: 12px;
+ margin: 40px 10px ;
+ display: inline
+}
+
+
+ul {
+    display: inline;
+}
+
+li {
+    text-decoration: none;
+    list-style: none;
+    display: inline;
+    float: right;
+    margin-right: 20px;
+
+}
+
